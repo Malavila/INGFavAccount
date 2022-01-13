@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'VM-Agent-Pool'
+  name: 'Default'
 
 steps:
 - task: Maven@3
